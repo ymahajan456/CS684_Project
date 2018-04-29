@@ -1,0 +1,1 @@
+"./sw1_sw2_control.obj" "./tm4c123gh6pm_startup_ccs.obj" "/home/praton/ti/TivaWare_C_Series-2.1.2.111/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
